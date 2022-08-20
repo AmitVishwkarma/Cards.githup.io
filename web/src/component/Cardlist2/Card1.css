@@ -1,0 +1,35 @@
+*{
+    font-family: tahoma;
+    font-size: 18px;
+   
+}
+.top{
+    display: inline;
+    text-align: center;
+    margin-top: 100px;
+}
+ h1, p{
+    text-align: center;
+ }
+ 
+.box{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-right: 50px;
+    
+}
+.card{
+    width: 250px;
+    text-align: center;
+    margin-top: 30px;
+    border-radius: 20px;
+    border: 2px solid white;
+    background-color: aquamarine;
+    margin-left: 60px;
+}
+.text{
+    padding: 10px;
+    background-color: aliceblue;
+}

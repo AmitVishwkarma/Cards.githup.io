@@ -1,0 +1,58 @@
+.pl-texts{
+    display: flex;
+    float: right;
+    padding: 20px;
+    margin: 10px;
+}
+
+
+
+
+.Content-1{
+    width: 200px;
+    height: 300px;
+}
+
+.Content-2 {
+    width: 200px;
+    height: 300px;
+}
+.Column-3 {
+    width: 200px;
+    height: 300px;
+}
+  
+
+  .Content-1 {
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    float: right;
+    
+    
+  }
+ 
+ 
+  .Content-2 {
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 600px;
+    top: 100px;
+
+  }
+  .Content-3 {
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    float: right;
+    margin-top: -200px;
+
+  }
+
+  .button{
+    float: left;
+    margin-right: 600px;
+    margin-top: 30px;
+  }
+
